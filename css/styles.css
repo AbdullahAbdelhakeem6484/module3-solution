@@ -1,5 +1,5 @@
 #header-nav {
-  background-color: #999999;
+  background-color: #342598;
   border-radius: 0;
   border: 0;
 }
@@ -21,8 +21,8 @@
 }
 
 #nav-list{
-  background: white;
-  border: 1px solid #e7e7e7;
+  background: #56BD7E;
+  border: 2px solid #e7e7e7;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -30,7 +30,7 @@
 #nav-list hr{
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #e7e7e7;
+  color: #B7B8B9;
 }
 
 #header-nav span.icon-bar{
@@ -38,13 +38,13 @@
 }
 
 #header-nav .navbar-toggle:hover span.icon-bar, #header-nav .navbar-toggle:focus span.icon-bar{
-  background: #888;
+  background: #EEE;
 }
 
 .menu-header{
   margin-bottom: 40px;
 }
 .menu-content{
-  background: #999999;
+  background: #897456;
   margin-bottom: 20px;
 }
